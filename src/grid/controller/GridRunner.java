@@ -1,11 +1,11 @@
 package grid.controller;
 
-public class Runner
+public class GridRunner
 {
 	
 	public static void main(String[] args)
 	{
-		Controller app = new Controller();
+		GridController app = new GridController();
 		app.start();
 	}
 } 
